@@ -1,7 +1,7 @@
-package App;
+package app;
 
-import App.utils.Paths;
-import App.utils.Utils;
+import app.utils.Paths;
+import app.utils.Utils;
 
 import java.util.Scanner;
 import java.io.File;

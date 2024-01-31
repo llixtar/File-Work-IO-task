@@ -1,6 +1,6 @@
-package App;
+package app;
 
-import App.utils.Paths;
+import app.utils.Paths;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
